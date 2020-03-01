@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/iT1M8aL.gif)
+![](https://i.imgur.com/XHfeFR1.gif)
 > 由於地理空間資訊的快速發展，透過遙測影像、高解析度的空照圖，我們對於即時性的空間資訊、更細緻的人口分佈，得以有更好的掌握
